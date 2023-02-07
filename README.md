@@ -15,3 +15,5 @@
 
 ![image](https://user-images.githubusercontent.com/91480603/217376468-50222e09-53fa-48a6-9cd6-4c1b5aeb2196.png)
 
+4. If required update system global path to include environment variable **C:\Terraform**
+
