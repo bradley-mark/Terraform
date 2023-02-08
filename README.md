@@ -5,8 +5,7 @@
 - **Works with Multi-cloud**
 - **Uses HCL (HashiCorp Configuration Language)**
 
-
-![image](https://user-images.githubusercontent.com/91480603/217640098-7520231c-22b3-4fbb-a9a9-2214e416076f.png)
+![image](https://user-images.githubusercontent.com/91480603/217652983-baff482e-ae39-466b-a036-e692ab7b9818.png)
 
 **Windows binary download**
 
