@@ -17,7 +17,7 @@
 
 4. If required update system global path to include environment variable **C:\Terraform**
 
-**AWS CLI**
+# AWS CLI
 
 1. run **AWS configure** enter access keys from user with permissions
 
