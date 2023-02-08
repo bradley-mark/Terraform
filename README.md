@@ -51,6 +51,27 @@ Terraform uses AWS CLI credentials
 
 **s3bucket.tf** creates S3 bucket
 
-![image](https://user-images.githubusercontent.com/91480603/217607458-2f724782-278d-4e75-b2d5-e901a17b1aef.png)
+![image](https://user-images.githubusercontent.com/91480603/217634380-a01a10f8-17d1-404d-b0c5-e22b46b0ff3f.png)
+
+1. Run **terraform apply -auto-approve** within terraform folder that includes **s3bucket.tf** file
+
+![image](https://user-images.githubusercontent.com/91480603/217634520-9af5bda7-914b-4f16-a406-44037386ab11.png)
+
+2. Enter **1** to add
+
+![image](https://user-images.githubusercontent.com/91480603/217634716-a4e37e9d-13ad-4613-a7c7-3d1cbdd34ea0.png)
+
+3. Review status
+
+![image](https://user-images.githubusercontent.com/91480603/217634888-4e05f91e-bc81-4c6d-bf7e-71e9a0a1fc89.png)
+
+4. Validate S3 bucket
+
+![image](https://user-images.githubusercontent.com/91480603/217635099-2621faa3-438e-42ea-8803-811150caffb2.png)
+
+![image](https://user-images.githubusercontent.com/91480603/217635290-b47cf1bc-7b5d-4732-a2c6-81182cbc9361.png)
+
+
+
 
 
