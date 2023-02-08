@@ -23,7 +23,7 @@ Terraform uses AWS CLI credentials
 
 1. Run **AWS configure** enter access keys from user with permissions
 
-![image](https://user-images.githubusercontent.com/91480603/217604759-daf54850-03bd-4cc9-abf2-e929a7a208b7.png)
+![image](https://user-images.githubusercontent.com/91480603/217607138-8f6fc4c2-3d80-4404-81be-3a549f8259c6.png)
 
 ![image](https://user-images.githubusercontent.com/91480603/217604838-ec4d2e6c-e2af-4a17-a1f9-6d5277549d49.png)
 
@@ -49,5 +49,8 @@ Terraform uses AWS CLI credentials
 
 ![image](https://user-images.githubusercontent.com/91480603/217602907-617fbe29-6bf9-4456-b8db-6ec4c973600b.png)
 
+**s3bucket.tf** creates S3 bucket
+
+![image](https://user-images.githubusercontent.com/91480603/217607458-2f724782-278d-4e75-b2d5-e901a17b1aef.png)
 
 
