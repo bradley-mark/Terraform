@@ -56,7 +56,7 @@ Terraform uses AWS CLI credentials
 
 ![image](https://user-images.githubusercontent.com/91480603/217602907-617fbe29-6bf9-4456-b8db-6ec4c973600b.png)
 
-**s3bucket.tf** creates S3 bucket names markbradley-tf-test-bucket with tags
+**s3bucket.tf** creates S3 bucket **markbradley-tf-test-bucket** with tags
 
 ![image](https://user-images.githubusercontent.com/91480603/217653577-98f1b0c5-8c3e-4e76-9d05-7ebafbbd90fb.png)
 
