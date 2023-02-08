@@ -58,7 +58,7 @@ Terraform uses AWS CLI credentials
 
 **s3bucket.tf** creates S3 bucket names markbradley-tf-test-bucket with tags
 
-![image](https://user-images.githubusercontent.com/91480603/217634380-a01a10f8-17d1-404d-b0c5-e22b46b0ff3f.png)
+![image](https://user-images.githubusercontent.com/91480603/217653577-98f1b0c5-8c3e-4e76-9d05-7ebafbbd90fb.png)
 
 1. Run **terraform apply -auto-approve** within terraform folder that includes **s3bucket.tf** file
 
