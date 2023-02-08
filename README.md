@@ -1,5 +1,10 @@
 # Terraform
 
+- Open source tool for building, changing and versioning infrastructure
+- Free and Business edition with more features
+- Works with Multi-cloud
+- Uses HCL (HashiCorp Configuration Language)
+
 ![image](https://user-images.githubusercontent.com/91480603/217640098-7520231c-22b3-4fbb-a9a9-2214e416076f.png)
 
 **Windows binary download**
