@@ -27,7 +27,7 @@ Terraform uses AWS CLI credentials
 
 ![image](https://user-images.githubusercontent.com/91480603/217604838-ec4d2e6c-e2af-4a17-a1f9-6d5277549d49.png)
 
-# Simple example
+# Simple examples
 
 **example.tf** creates an EC2 **t2.micro** instance using **ami-2757f631** in **us-east-1**
 
