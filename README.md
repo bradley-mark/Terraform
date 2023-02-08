@@ -19,6 +19,8 @@
 
 # AWS CLI
 
+Terraform uses AWS CLI credentials
+
 1. Run **AWS configure** enter access keys from user with permissions
 
 ![image](https://user-images.githubusercontent.com/91480603/217604759-daf54850-03bd-4cc9-abf2-e929a7a208b7.png)
