@@ -17,6 +17,12 @@
 
 4. If required update system global path to include environment variable **C:\Terraform**
 
+5. Install **AWS CLI** and run **AWS configure** enter access keys from user with permissions
+
+![image](https://user-images.githubusercontent.com/91480603/217604759-daf54850-03bd-4cc9-abf2-e929a7a208b7.png)
+
+![image](https://user-images.githubusercontent.com/91480603/217604838-ec4d2e6c-e2af-4a17-a1f9-6d5277549d49.png)
+
 # Simple example
 
 **example.tf** creates an EC2 **t2.micro** instance using **ami-2757f631** in **us-east-1**
