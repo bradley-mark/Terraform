@@ -19,7 +19,7 @@
 
 # Simple example
 
-example.tf creates an EC2 t2 micro instance using ami-2757f631 in us-east-1
+**example.tf** creates an EC2 **t2.micro** instance using **ami-2757f631** in **us-east-1**
 
 ![image](https://user-images.githubusercontent.com/91480603/217601984-435f85c0-457c-46cc-93b6-fe4f3c032977.png)
 
